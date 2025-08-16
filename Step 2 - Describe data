@@ -1,0 +1,7 @@
+Input	                Type	         Description
+Feeding Time         	Time	         Scheduled times to dispense food.
+Portion Size        	Weight	       Amount of food dispensed at a time.
+Eating Duration	      Time	         Time given to eat the food.
+Food Eaten Status     Boolean      	 Simulated result after eating duration.
+Alert 	              Text	         Alert sent to staff.
+
