@@ -1,0 +1,19 @@
+Step 1 – Understand and define the problem
+
+A local animal shelter needs a low-cost, programmable automated pet feeder system that dispenses food at scheduled times, monitors food consumption and alerts staff if something goes wrong. 
+
+Features of the feeder
+1.	The feeder must dispense food automatically.
+2.	It must detect whether the pet ate the food and notify staff if not eaten within a time limit.
+
+Inputs and outputs needed
+
+Inputs-: Feeding Time. (24-hr).
+                  Portion Size. (grams).
+                  Eating Duration. (minutes).
+
+Outputs-: Alerts 
+
+Assumptions / limitations
+
+Food-: One bowl per device.
