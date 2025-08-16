@@ -1,0 +1,11 @@
+Start
+Input Feeding Time, Portion Size, Eating Duration
+Wait until Feeding Time
+Dispense Portion Size
+Start Eating Duration Timer
+Check Food Eaten Status
+If no,
+            Send Alert to Staff, wait for next Feeding Time
+If yes,
+             Output Record
+             End.
