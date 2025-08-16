@@ -1,0 +1,6 @@
+In developing my automated pet feeder system, I asked Copilot to review my Step 4 implementation of word coding, which included inputs for feeding time, portion size and eating duration, followed by a sequence of dispensing, monitoring, and alerting. My prompt was:
+“I have designed a solution, and I want you to review my Step 4 implementation of word coding for the system and suggest improvements or identify any potential issues.”
+Copilot responded with a detailed analysis, highlighting strengths such as logical flow and modular inputs, while also identifying areas for improvement. It suggested clarifying how food consumption is detected, adding a grace period before sending alerts, validating inputs, and logging both successful and missed feedings. These insights helped me refine my logic to make the system more robust and realistic for shelter conditions.
+The revised flow includes sensor-based verification, input validation, and a retry mechanism enhancing both reliability and animal welfare. This feedback significantly influenced my final solution by encouraging a more thoughtful and error-resistant design. I’ve included screenshots of this interaction to demonstrate how Copilot’s suggestions directly shaped my implementation.
+
+(182 words)
