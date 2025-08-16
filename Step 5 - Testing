@@ -1,0 +1,14 @@
+Test Case	                      Process	                                       Output
+Pet eats as expected	          Dispense Portion Size, Food Eaten	             Output Record
+Pet does not eat	              Dispense Portion Size, Food Not Eaten        	 Send Alert
+Food bin is empty	              System can’t dispense food	                   Send Alert
+
+Discussion of logic
+
+1.	The logic works for pet eating and not eating scenarios.
+2.	It sends alerts when food is not eaten.
+3.	It sends alerts when bin is empty.
+
+Refinements
+1.	Add low food sensor.
+2.	Improve alert system to SMS instead of local alerts.
