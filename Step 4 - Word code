@@ -4,8 +4,10 @@ Wait until Feeding Time
 Dispense Portion Size
 Start Eating Duration Timer
 Check Food Eaten Status
-If no,
-            Send Alert to Staff, wait for next Feeding Time
 If yes,
-             Output Record
-             End.
+            Output Record
+            Wait for next Feeding time            
+If no,
+            Send Alert to Staff
+            End.
+
