@@ -1,7 +1,7 @@
-Input	                Type	         Description
-Feeding Time         	Time	         Scheduled times to dispense food.
-Portion Size        	Weight	       Amount of food dispensed at a time.
-Eating Duration	      Time	         Time given to eat the food.
-Food Eaten Status     Boolean      	 Simulated result after eating duration.
-Alert 	              Text	         Alert sent to staff.
+Input	                 Type	            Description	                               Sample Values
+Feeding Time	         Time	            Scheduled times to dispense food.	         8 am, 6 pm
+Portion Size	         Weight         	Amount of food dispensed at a time.        100 g
+Eating Duration	       Time           	Time given to eat the food.                10 mins
+Food Eaten Status	     Boolean         	Simulated result after eating duration.    True, False
+Alert                  Text	            Alert sent to staff.	
 
